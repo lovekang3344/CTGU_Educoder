@@ -1,4 +1,4 @@
-##########  开始编写 SQL  ##########
+##########  开始编�? SQL  ##########
 revoke all privileges on mydb1.table1 from 'user1'@'localhost';
 revoke all privileges on mydb1.table2 from 'user1'@'localhost';
 flush privileges;

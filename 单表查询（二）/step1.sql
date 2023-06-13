@@ -5,5 +5,3 @@ from tb_emp
 where Name like "C%";
 ######### End #########
 
-
-###123
