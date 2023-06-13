@@ -7,5 +7,3 @@ select Name,Salary from tb_emp;
 select * from tb_emp;
 ########## End ##########
 
-
-########## End ##########
