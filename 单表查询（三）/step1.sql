@@ -7,7 +7,3 @@ from tb_score
 order by score desc;
 where class_id = 1
 ########## End ##########
-
-
-
-######
