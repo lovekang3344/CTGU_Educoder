@@ -6,6 +6,3 @@ select Name,Salary from tb_emp;
 ########## retrieving all the table ##########
 select * from tb_emp;
 ########## End ##########
-
-
-########## End ##########

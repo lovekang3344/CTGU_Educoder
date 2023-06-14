@@ -4,6 +4,7 @@ USE School;
 ########## 查询1班同学的所有信息以成绩降序的方式显示结�? ##########
 select *
 from tb_score
-order by score desc;
 where class_id = 1
+order by score desc;
+
 ########## End ##########
