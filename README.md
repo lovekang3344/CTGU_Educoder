@@ -1,5 +1,6 @@
 # CTGU_Educoder_Answers
 
+# 截止2023年06月26日，我们已经更新完educoder的所有答案了，以供大家参考
 
 <a href='https://gitee.com/lovekang3344/CTGU_Educoder/stargazers'><img src='https://gitee.com/lovekang3344/CTGU_Educoder/badge/star.svg?theme=dark' alt='star'></img></a>
 <a href='https://gitee.com/lovekang3344/CTGU_Educoder'><img src='https://gitee.com/lovekang3344/CTGU_Educoder/widgets/widget_2.svg' alt='Fork me on Gitee'></img></a>
