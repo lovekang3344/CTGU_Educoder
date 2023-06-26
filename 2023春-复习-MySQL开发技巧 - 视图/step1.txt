@@ -1,0 +1,16 @@
+use School;
+
+#请在此处添加实现代码
+########## Begin ##########
+
+#1.创建单表视图
+create view stu_view
+as
+select math,chinese,math+chinese
+from student;
+
+#2.创建多表视图
+create view stu_classes as select student.stu_id,student.name,stu_info.classes
+from student,stu_info
+where student.stu_id=stu_info.stu_id;
+########## End ##########
